@@ -77,3 +77,18 @@
     text-decoration: underline;
   }
   
+
+  .skills-languages {
+    display: flex;
+    justify-content: space-around; 
+  }
+
+  .skills-languages .list-title {
+    text-align: left;
+  }
+
+  .list {
+    text-align: left;
+  }
+
+
